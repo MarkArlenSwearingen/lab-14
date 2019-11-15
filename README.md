@@ -18,20 +18,20 @@ Estimate of time needed to complete:  20 min
 
 Start time: 9:00pm
 
-Finish time: _____
+Finish time: __9:13___
 
-Actual time needed to complete: _____
+Actual time needed to complete: 13 minutes_____
 
 
 Number and name of feature: Addition of a migrations folder
 
 Estimate of time needed to complete:  20 min
 
-Start time: 9:00pm
+Start time: 9:13pm
 
-Finish time: _____
+Finish time: _9:33____
 
-Actual time needed to complete: _____
+Actual time needed to complete: _23 minutes____
 
 
 
@@ -39,7 +39,7 @@ Number and name of feature: Normalize Book_App Database
 
 Estimate of time needed to complete:  1 hour
 
-Start time: 8:40pm
+Start time:
 
 Finish time: _____
 
